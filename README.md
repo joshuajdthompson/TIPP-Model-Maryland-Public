@@ -1,6 +1,6 @@
 # Introduction
 
-In 2023, the Maryland Department of the Environment (MDE) introduced the TMDL Implementation Progress and Planning (TIPP) Tool. Its primary purpose is to help local jurisdictions evaluate their progress and adherence to local Total Maximum Daily Loads (TMDLs) via Best Management Practice (BMP) implementation. The TIPP Tool is an online adaptation of the original Microsoft Excel spreadsheet created by MDE. The online tool incorporates a centralized version control system, ensuring that users access the most up-to-date version when logging into the site. To see the development history of the tool, the user can click the `r shiny::icon("circle-info")` History button at the top of the tool:   
+In 2023, the Maryland Department of the Environment (MDE) introduced the TMDL Implementation Progress and Planning (TIPP) Tool. Its primary purpose is to help local jurisdictions evaluate their progress and adherence to local Total Maximum Daily Loads (TMDLs) via Best Management Practice (BMP) implementation. The TIPP Tool is an online adaptation of the original Microsoft Excel spreadsheet created by MDE. The online tool incorporates a centralized version control system, ensuring that users access the most up-to-date version when logging into the site. To see the development history of the tool, the user can click the 'History button' at the top of the tool:   
 
 <br> 
 <img src="history_button2.gif" alt="History button" style="border: 2px solid  gray;"/>    
@@ -177,7 +177,7 @@ You can view an example of how to add future scenario load BMPs in the animation
 <br> 
 
 
-## List of BMPs `r shiny::icon("list-ul")`
+## List of BMPs 
 
 The ‘List of BMPs’ page features a table that presents all BMPs entered into the tool. You can review the data within this table and utilize the search box located above for easy navigation. 
 
@@ -227,6 +227,6 @@ As this version of the tool does not save progress, it’s important to note tha
 
 
 
-## Backcasting Method `r shiny::icon("clock")`
+## Backcasting Method 
 
 This tool relies on land use estimates from the MDE-modified Chesapeake Bay Conservancy 2013/14 land cover data. Because the baseline year of many TMDLs in Maryland predates this, a backcasting method was developed by Baltimore County to improve the accuracy of the baseline year load estimates. The 'Backcasting Method' page contains a PDF of this approved backcasting methodology.  
