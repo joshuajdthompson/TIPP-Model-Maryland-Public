@@ -68,7 +68,7 @@ You can find an example of the data upload process in the animation below.
 
 ## Baseline Load
 
-If you choose to upload data directly, there’s no need to manually enter anything on the ‘Baseline Load’ page. In the case, you can skip ahead to the ‘List of BMPs’ section in the documentation.
+If you choose to upload data directly, there’s no need to manually enter anything on the ‘Baseline Load’ page. In this case, you can skip ahead to the ‘List of BMPs’ section in the documentation.
 
 Baseline land use can be categorized as ‘Aggregate Impervious’, ‘Impervious Road’, ‘Impervious Non-Road’, ‘Turf’, or ‘Septic’. Please note that these options vary based on your response to the ‘Use Disaggregated Impervious?’ question on the ‘Home’ page. 
 
